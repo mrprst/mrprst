@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/mathiasprost/)**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mathiasprost/](https://www.linkedin.com/in/mathiasprost/)
+- 📄 Know about my experiences **[Linkedin too!](https://www.linkedin.com/in/mathiasprost/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
