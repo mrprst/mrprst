@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my portfolio: [mrprst](https://mrpr.st/)
 
-- 🌱 I’m currently learning **Next.js, React.js and Vanilla**
+- 🌱 I’m currently learning **Typescript & Node.js**
 
 - 💬 Ask me about **any project i could fit :)**
 
