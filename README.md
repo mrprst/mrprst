@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mathias</h1>
 <h3 align="center">French speaking web developper</h3>
 
-- 🔭 I’m currently working on my portfolio: [mrprst](https://mrpr.st/)
+- 🔭 I’m currently working on my portfolio: [mrprst](https://mrpr.st/) and imr.party (https://imr.party/) (private repo)
 
 - 🌱 I’m currently learning **Typescript & Node.js**
 
