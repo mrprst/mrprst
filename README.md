@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mathias</h1>
 <h3 align="center">French speaking web developper</h3>
 
-- 🔭 I’m currently working on [eStory.io](https://estory.io/) and [nuance radio](https://nuance.radio/) (privates repo)
+- 🔭 I’m currently working on [Nostrum Care](https://www.nostrumcare.fr/) (Ruby on Rails/StimulusJs) and [eStory.io](https://estory.io/) (NextJs)
 
 - 🌱 I’m currently learning **Typescript & Node.js**
 
