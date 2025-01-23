@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mathias</h1>
 <h3 align="center">French speaking web developper</h3>
 
-- 🔭 I’m currently working on [Nostrum Care](https://www.nostrumcare.fr/) (React/Next.JS) and doing automation and growth for [Reezocar](https://www.reezocar.com/) (N8N, Make)
+- 🔭 I’m currently doing n8n things and frontend for [Nostrum Care](https://www.nostrumcare.fr/) (React/Next.JS).
 
 - 💬 Ask me about **any project i could fit :)**
 
